@@ -8,6 +8,7 @@ import Book from '../types/Book'
 
 // interface FormComponentProps extends RouteComponentProps{
 //     user: string
+//     books: Book[]
 //   }
 
 interface FormComponentProps {
