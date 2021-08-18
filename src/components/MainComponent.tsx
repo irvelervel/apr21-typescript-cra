@@ -1,7 +1,7 @@
 import { Component } from 'react'
 
 interface MainComponentProps {
-  title: string
+  title?: string
   subTitle?: string
 }
 
